@@ -14,9 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jesús meléndez" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús meléndez" height="30" width="40" />
-  </a>
+ <a href="https://www.linkedin.com/in/jes%C3%BAs-mel%C3%A9ndez-1946062a6/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jesús Meléndez" height="30" width="40" />
+</a>
+
   <a href="https://www.leetcode.com/jejamel" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jejamel" height="30" width="40" />
   </a>
